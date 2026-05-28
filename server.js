@@ -92,3 +92,4 @@ const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
   console.log(`Moral Machine API server running on port ${PORT}`);
 });
+// Redeploy trigger - Thu May 28 10:26:49 CST 2026
